@@ -20,6 +20,12 @@ This program processes input files containing crystal and mine data, evaluates d
 - The third line is the total number of edges used.
 - The following lines are the set of edges formed.
 
+## Check_Function
+- This is used to check if the set of edges formed forms a correct polygon or not.
+
+## OUTPUT_VISUALISATION
+- This is used to plot the edges forming the polygon, crystals and mines.
+
 ## Dependencies
 - Requires C++11 or later.
 - Uses standard libraries (no external dependencies).
